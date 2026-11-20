@@ -1,5 +1,5 @@
 ---
-name: resume
+name: resume-handoff
 description: Pick up work from the most recent handoff document written by the handoff skill.
 argument-hint: "Optional: keyword to pick a specific handoff (e.g. project name)"
 disable-model-invocation: true
